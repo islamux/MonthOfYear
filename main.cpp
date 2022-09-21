@@ -1,14 +1,17 @@
 #include <iostream>
 using namespace std;
 
+// Reading 
 #include "casting_reading_func_to_enum.h"
+// Checking 
 #include "check_en_month_number.h"
+// Printing 
 #include "print_number_int_with_double_msg.h"
 
 /*
     * User enter a month as number 
     *       1 ==> January, 2==> February ...
-    *               Wrong month and ask again....
+    *               Wrong month ==> ask again....
 */
 
 
